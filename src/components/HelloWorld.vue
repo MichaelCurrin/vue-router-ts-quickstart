@@ -8,7 +8,9 @@
         >vue-cli documentation</a
       >.
     </p>
+
     <h3>Installed CLI Plugins</h3>
+
     <ul>
       <li>
         <a
@@ -43,7 +45,9 @@
         >
       </li>
     </ul>
+
     <h3>Essential Links</h3>
+
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
@@ -113,7 +117,6 @@ export default defineComponent({
 });
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
   margin: 40px 0 0;
