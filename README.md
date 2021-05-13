@@ -1,6 +1,28 @@
 # Vue Router TS Quickstart
 > Starter template for a Vue 3 project using Vue Router and TypeScript
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-router-ts-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/vue-router-ts-quickstart/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-ts-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
+
+
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+</div>
+
+
+## Use this project
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vue-router-ts-quickstart/generate)
+
+</div>
+
 
 ## Start a new Vue project
 
@@ -50,3 +72,8 @@ $ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## License
+
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
