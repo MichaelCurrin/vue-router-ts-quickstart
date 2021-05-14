@@ -5,7 +5,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Made with TypeScript](https://img.shields.io/badge/TypeScript-4-blue?logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-ts-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
+[![Package - vue-router](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-router-ts-quickstart/vue-router)](https://www.npmjs.com/package/vue-router)
 
 
 ## Preview
